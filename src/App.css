@@ -1,5 +1,9 @@
 .App {
-  text-align: center;
+  margin: 22px;
+  padding: 22px;
+}
+.errorClass{
+color: red
 }
 
 .App-logo {
